@@ -9,4 +9,7 @@
     <toc-element topic="starter-topic.md">
         <toc-element topic="Empty-MD-Topic.md"/>
     </toc-element>
+    <toc-element topic="Starter.md">
+        <toc-element topic="Empty-MD-Topic-2.md"/>
+    </toc-element>
 </instance-profile>
