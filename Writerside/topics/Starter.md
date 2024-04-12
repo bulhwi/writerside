@@ -1,5 +1,8 @@
 # 정리
 
+## 명령어
+* [Curl - Client URL](https://bulhwi.github.io/writerside/curl-client-url.html)
+
 ## Write content
 %product% supports two types of markup: Markdown and XML.
 When you create a new help article, you can choose between two topic types, but this doesn't mean you have to stick to a single format.
